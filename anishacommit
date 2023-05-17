@@ -1,0 +1,9 @@
+int a = 5;
+
+int b = 6;
+
+addition of two number is 
+
+c = a+b;
+
+return 0;
