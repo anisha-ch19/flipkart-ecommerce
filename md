@@ -12,3 +12,5 @@ monu
 
 pari
 
+
+both 
